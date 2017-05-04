@@ -14,10 +14,10 @@ Here is where you can find our currently open job openings:
 
 
 #### *Head of Yara Events*
-##### This person is a top level weeb who works with the community manager, server owners, event staff, and other Yara members to bring new and unique events. This person also deals with the issue of who hosts, who does what, who does that. 
+##### This person is a top level weeb who works with the community manager, server owners, event staff, and other Yara members to bring new and unique events. This person also deals with the issue of who hosts, who does what, who does that. ( We only have 2 of these guys )
 
 #### *Yara Event Staff*
-##### Event staff work with the Head of Yara Events to choose, plan, *host,* create new events, and work with Server Owners to bring spice to Yara! These people keep the community running and active!
+##### Event staff work with the Head of Yara Events to choose, plan, *host,* create new events, and work with Server Owners to bring spice to Yara! These people keep the community running and active! Note: This is the second easiest job to get at Yara, (the first being the Yara weeb job lol).
 
 
 #### *Yara Community Manager*
@@ -33,7 +33,7 @@ Here is where you can find our currently open job openings:
 
 
 #### *Yara Weebs*
-##### Your loyal dedication to being a weeb.
+##### Your loyal dedication to being a weeb. Be active in the server and get the highest rank with our prime Rikka!
 
 
 ### Apply to any of the above listed jobs(except developer)

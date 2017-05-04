@@ -5,7 +5,7 @@ with the following JSON data:
 
 ```json
 {
-"userid":"UserID as a STRING",
+"userid":"Discord UserID as a STRING",
 "name":"DiscordName#Tag",
 "applyingTo":"well dev duh",
 "reason":"a reason why we should accept you and trust you",

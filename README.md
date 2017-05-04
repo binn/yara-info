@@ -4,10 +4,19 @@ Here is where you can find our currently open job openings:
 
 ### Jobs:
 
-#### [Yara Developers](https://bintheweeb.github.io/yara-info/dev.md)
-#### [Yara Chat Moderator](https://bintheweeb.github.io/)
+#### [Yara Developers](dev.md)
+#### [Yara Graphics Artist](art.md)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bintheweeb/yara-info/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### [Head of Yara Events](eventHead.md)
+#### [Yara Event Staff](event.md)
+
+#### [Yara Community Manager](manager.md)
+#### [Yara Chat Moderator](mod.md)
+
+#### [Yara Sponsor](donate.md)
+#### [Yara Donator](donate.md)
+
+#### [Yara Weebs](weeb.md)
 
 ### Support or Contact
 
